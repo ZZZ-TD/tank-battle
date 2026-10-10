@@ -4,7 +4,7 @@
 
 ## 🎮 试玩
 
-- **在线体验**：https://<你的用户名>.github.io/tank-battle/
+- **在线体验**：https://zzz-td.github.io/tank-battle/
 - **本地运行**：直接用浏览器打开 `index.html` 即可。
 
 ## 🕹️ 操作方式
@@ -47,7 +47,7 @@
 
 1. 仓库 → **Settings** → **Pages**
 2. **Source** 选择 `Deploy from a branch`，分支选 `main`，目录选 `/ (root)`
-3. 保存后稍等片刻，即可通过 `https://<用户名>.github.io/tank-battle/` 访问
+3. 保存后稍等片刻，即可通过 `https://zzz-td.github.io/tank-battle/` 访问
 
 ## 📄 许可
 
